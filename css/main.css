@@ -1,0 +1,38 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	background: #f8f8f6;
+}
+.outer {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	height: 100%;
+}
+
+p {
+	font-size: 2.5rem;
+	line-height: 1.3;
+	font-weight: bold;
+	color: #89898a;
+}
+
+a:hover {
+	color: #dededf;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
