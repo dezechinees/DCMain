@@ -1,0 +1,28 @@
+@import 'simplegrid';
+
+$bgColor: #f8f8f6;
+$darkGrey: #333447;
+$grey: #89898a;
+$lightGrey: #dededf;
+
+body {
+	background: $bgColor;
+}
+
+.outer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  	height: 100%;
+}
+
+p {
+	font-size: 2.5rem;
+	line-height: 1.3;
+	font-weight: bold;
+	color: $grey;
+}
+
+a:hover {
+	color: $lightGrey;
+}
